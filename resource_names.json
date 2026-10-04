@@ -1,0 +1,1519 @@
+{
+  "version": 2,
+  "updated": "2026-10-04",
+  "languages": [
+    "de",
+    "en",
+    "nl",
+    "fr",
+    "hu",
+    "pt"
+  ],
+  "names": {
+    "res_apple_cider_cleaner": {
+      "de": "Apfelreiniger",
+      "en": "Apple Cleaner",
+      "nl": "Appelreiniger",
+      "fr": "Nettoyant à la pomme",
+      "hu": "Almás tisztítószer",
+      "pt": "Produto de limpeza de maçã"
+    },
+    "res_apple_jam": {
+      "de": "Apfelgelee",
+      "en": "Apple Jelly",
+      "nl": "Appelgelei",
+      "fr": "Gelée de pommes",
+      "hu": "Alma zselé",
+      "pt": "Geleia de maçã"
+    },
+    "res_apple_juice": {
+      "de": "Apfelsaft",
+      "en": "Apple Juice",
+      "nl": "Appelsap",
+      "fr": "Jus de pomme",
+      "hu": "Almalé",
+      "pt": "Sumo de maçã"
+    },
+    "res_apple_pie": {
+      "de": "Apfelkuchen",
+      "en": "Apple Pie",
+      "nl": "Appeltaart",
+      "fr": "Tarte aux pommes",
+      "hu": "Almás pite",
+      "pt": "Tarte de maçã"
+    },
+    "res_apples": {
+      "de": "Äpfel",
+      "en": "Apples",
+      "nl": "Appels",
+      "fr": "Pommes",
+      "hu": "Alma",
+      "pt": "Maçãs"
+    },
+    "res_bag": {
+      "de": "Tasche",
+      "en": "Bag",
+      "nl": "Tas",
+      "fr": "Sac",
+      "hu": "Táska",
+      "pt": "Saco"
+    },
+    "res_bio_plastic_granules": {
+      "de": "Biokunststoffgranulat",
+      "en": "Bio-Plastic Granules",
+      "nl": "Bioplasticgranulaat",
+      "fr": "Granulés de bioplastique",
+      "hu": "Bioműanyag-granulátum",
+      "pt": "Granulado de bioplástico"
+    },
+    "res_birch_shelf": {
+      "de": "Regal aus Birkenholz",
+      "en": "Birch wood Shelf",
+      "nl": "Plank van berkenhout",
+      "fr": "Étagère en bois de bouleau",
+      "hu": "Nyírfa polc",
+      "pt": "Prateleira de madeira de bétula"
+    },
+    "res_birch_veneer": {
+      "de": "Birkenholzfurnier",
+      "en": "Birch veneer",
+      "nl": "Berkfineer",
+      "fr": "Placage de bouleau",
+      "hu": "Nyírfa furnér",
+      "pt": "Folheado de bétula"
+    },
+    "res_birch_veneer_planks": {
+      "de": "Birkenholzfurnierbretter",
+      "en": "Birch Veneer Planks",
+      "nl": "Berken fineerplanken",
+      "fr": "Planches de placage de bouleau",
+      "hu": "Nyírfa furnér deszkák",
+      "pt": "Tábuas de folha de bétula"
+    },
+    "res_birch_wood_chair": {
+      "de": "Stuhl aus Birkenholz",
+      "en": "Birch wood chair",
+      "nl": "Stoel van berkenhout",
+      "fr": "Chaise en bois de bouleau",
+      "hu": "Nyírfából készült szék",
+      "pt": "Cadeira de madeira de bétula"
+    },
+    "res_birch_wood_logs": {
+      "de": "Birkenholzstämme",
+      "en": "Birch wood logs",
+      "nl": "Berkenhouten stammen",
+      "fr": "Bûches de bouleau",
+      "hu": "Nyírfa rönk",
+      "pt": "Toros de madeira de bétula"
+    },
+    "res_birch_wood_planks": {
+      "de": "Birkenholzbretter",
+      "en": "Birch wood planks",
+      "nl": "Planken van berkenhout",
+      "fr": "Planches de bois de bouleau",
+      "hu": "Nyírfa deszkák",
+      "pt": "Tábuas de madeira de bétula"
+    },
+    "res_black_dye": {
+      "de": "Schwarzer Farbstoff",
+      "en": "Black Dye",
+      "nl": "Zwarte kleurstof",
+      "fr": "Teinture noire",
+      "hu": "Fekete festék",
+      "pt": "Corante preto"
+    },
+    "res_black_potato": {
+      "de": "Schwarze Kartoffeln",
+      "en": "Black Potatoes",
+      "nl": "Zwarte Aardappelen",
+      "fr": "Pommes de terre noires",
+      "hu": "Fekete burgonya",
+      "pt": "Batatas Pretas"
+    },
+    "res_blanket": {
+      "de": "Decke",
+      "en": "Blanket",
+      "nl": "Deken",
+      "fr": "Couverture",
+      "hu": "Takaró",
+      "pt": "Manta"
+    },
+    "res_blue_plastic_granules": {
+      "de": "Blaues Kunststoffgranulat",
+      "en": "Blue Plastic Granules",
+      "nl": "Blauw kunststofgranulaat",
+      "fr": "Granulés de plastique bleu",
+      "hu": "Kék műanyag granulátum",
+      "pt": "Granulado de plástico azul"
+    },
+    "res_bread": {
+      "de": "Weizenbrote",
+      "en": "White Bread Loafs",
+      "nl": "Witbroden",
+      "fr": "Baguettes",
+      "hu": "Fehér kenyér veknik",
+      "pt": "Pães de Forma"
+    },
+    "res_bread_roll": {
+      "de": "Brötchen",
+      "en": "Bread rolls",
+      "nl": "Broodjes",
+      "fr": "Petits pains",
+      "hu": "Zsemlék",
+      "pt": "Pãezinhos"
+    },
+    "res_bulk_apple_cider_cleaner": {
+      "de": "Paletten mit Apfelreiniger",
+      "en": "Pallets of Apple Cleaner",
+      "nl": "Pallets met appelreiniger",
+      "fr": "Palettes de nettoyant à la pomme",
+      "hu": "Raklapok almás tisztítószerrel",
+      "pt": "Paletes de produto de limpeza de maçã"
+    },
+    "res_bulk_apple_jam": {
+      "de": "Paletten mit Apfelmarmelade",
+      "en": "Pallets with Apple Jam",
+      "nl": "Pallets met appeljam",
+      "fr": "Palettes avec confiture de pommes",
+      "hu": "Raklapok almalekvárral",
+      "pt": "Paletes com compota de maçã"
+    },
+    "res_bulk_apple_juice": {
+      "de": "Paletten mit Apfelsaft",
+      "en": "Pallets with Apple Juice",
+      "nl": "Pallets met appelsap",
+      "fr": "Palettes au jus de pomme",
+      "hu": "Raklapok almalével",
+      "pt": "Paletes com sumo de maçã"
+    },
+    "res_bulk_birch_wood_chairs": {
+      "de": "Massenproduzierte Birkenholzstühle",
+      "en": "Mass produced birchwood chairs",
+      "nl": "Massa geproduceerde berkenhouten stoelen",
+      "fr": "Chaises en bouleau produites en série",
+      "hu": "Tömeggyártott nyírfa székek",
+      "pt": "Cadeiras de madeira de bétula produzidas em massa"
+    },
+    "res_bulk_cardboard_boxes": {
+      "de": "Paletten mit Pappkartons",
+      "en": "Pallets of Carboard boxes",
+      "nl": "Pallets met kartonnen dozen",
+      "fr": "Palettes de boîtes en carton",
+      "hu": "Raklapok kartondobozokkal",
+      "pt": "Paletes de caixas de papelão"
+    },
+    "res_bulk_cherry_jam": {
+      "de": "Paletten mit Kirschmarmelade",
+      "en": "Pallets with Cherry Jam",
+      "nl": "Pallets met kersenjam",
+      "fr": "Palettes à la confiture de cerises",
+      "hu": "Raklapok cseresznye lekvárral",
+      "pt": "Paletes com doce de cereja"
+    },
+    "res_bulk_cherry_juice": {
+      "de": "Paletten mit Kirschsaft",
+      "en": "Pallets with Cherry Juice",
+      "nl": "Pallets met kersensap",
+      "fr": "Palettes au jus de cerise",
+      "hu": "Raklapok cseresznyelevel",
+      "pt": "Paletes com sumo de cereja"
+    },
+    "res_bulk_cherry_wood_sideboards": {
+      "de": "Massenproduzierte Kirschholzschränke",
+      "en": "Mass produced cherry wood desks",
+      "nl": "In massa geproduceerde bureaus van kersenhout",
+      "fr": "Bureaux en bois de cerisier fabriqués en série",
+      "hu": "Tömeggyártású cseresznyefából készült íróasztalok",
+      "pt": "Secretárias em madeira de cerejeira produzidas em série"
+    },
+    "res_bulk_cracker": {
+      "de": "Paletten mit Crackern",
+      "en": "Pallets with crackers",
+      "nl": "Pallets met crackers",
+      "fr": "Palettes de crackers",
+      "hu": "Raklap kekszekkel",
+      "pt": "Paletes com biscoitos"
+    },
+    "res_bulk_cups": {
+      "de": "Paletten mit Bechern",
+      "en": "Pallets of cups",
+      "nl": "Pallets met bekers",
+      "fr": "Palettes de gobelets",
+      "hu": "Raklapok poharakkal",
+      "pt": "Paletes de copos"
+    },
+    "res_bulk_cutlery": {
+      "de": "Paletten mit Besteck",
+      "en": "Pallets of cutlery",
+      "nl": "Pallets met bestek",
+      "fr": "Palettes de couverts",
+      "hu": "Raklapok evőeszközökkel",
+      "pt": "Paletes de talheres"
+    },
+    "res_bulk_espadrilles": {
+      "de": "Paletten mit Espadrilles",
+      "en": "Pallets of Espadrilles",
+      "nl": "Pallets Espadrilles",
+      "fr": "Palettes d'espadrilles",
+      "hu": "Raklapnyi Espadrilles",
+      "pt": "Paletes de espadrilles"
+    },
+    "res_bulk_frozen_potatoe_wedges": {
+      "de": "Paletten mit Gefrierkartoffelecken",
+      "en": "Pallets with frozen potato wedges",
+      "nl": "Pallets met diepvries aardappelpartjes",
+      "fr": "Palettes de quartiers de pommes de terre surgelés",
+      "hu": "Raklap fagyasztott hasábburgonyával",
+      "pt": "Paletes com batatas fritas congeladas"
+    },
+    "res_bulk_hemp_chair": {
+      "de": "Paletten mit Hanfstühlen",
+      "en": "Pallets of hemp Chairs",
+      "nl": "Pallets met hennepstoelen",
+      "fr": "Palettes de chaises en chanvre",
+      "hu": "Raklapok kenderszékekkel",
+      "pt": "Paletes de cadeiras de cânhamo"
+    },
+    "res_bulk_hemp_soap": {
+      "de": "Paletten mit Hanfseife",
+      "en": "Pallets of Hemp Soap",
+      "nl": "Pallets met hennepzeep",
+      "fr": "Palettes de savon au chanvre",
+      "hu": "Raklapok kenderszappannal",
+      "pt": "Paletes de sabonete de cânhamo"
+    },
+    "res_bulk_jeans": {
+      "de": "Paletten mit Jeans",
+      "en": "Pallets with jeans",
+      "nl": "Pallets met jeans",
+      "fr": "Palettes avec jeans",
+      "hu": "Raklap farmerekkel",
+      "pt": "Paletes com calças de ganga"
+    },
+    "res_bulk_oak_wood_tables": {
+      "de": "Massenproduzierte Tische aus Eichenholz",
+      "en": "Mass produced oak wood tables",
+      "nl": "In massa geproduceerde eikenhouten tafels",
+      "fr": "Tables en chêne fabriquées en série",
+      "hu": "Tömeggyártású tölgyfa asztalok",
+      "pt": "Mesas de madeira de carvalho produzidas em série"
+    },
+    "res_bulk_of_corn_nacho": {
+      "de": "Paletten mit Maisnachos",
+      "en": "Pallets with corn nachos",
+      "nl": "Pallets met maïs nacho's",
+      "fr": "Palettes de nachos de maïs",
+      "hu": "Raklap kukorica nachosszal",
+      "pt": "Paletes com nachos de milho"
+    },
+    "res_bulk_of_frozen_fries": {
+      "de": "Paletten mit Gefrierpommes",
+      "en": "Pallets with frozen fries",
+      "nl": "Pallets met diepvries friet",
+      "fr": "Palettes de frites surgelées",
+      "hu": "Raklap fagyasztott sültkrumplival",
+      "pt": "Paletes com batatas fritas congeladas"
+    },
+    "res_bulk_of_frozen_sweet_fries": {
+      "de": "Paletten mit gefrorenen Süßkartoffelpommes",
+      "en": "Pallets with frozen sweet fries",
+      "nl": "Pallets met diepvries zoete friet",
+      "fr": "Palettes de frites sucrées surgelées",
+      "hu": "Raklap fagyasztott édesburgonya hasábbal",
+      "pt": "Paletes com batatas doces fritas congeladas"
+    },
+    "res_bulk_of_nacho": {
+      "de": "Paletten mit Nachos",
+      "en": "Pallets with nachos",
+      "nl": "Pallets met nacho's",
+      "fr": "Palettes de nachos",
+      "hu": "Raklap nachosszal",
+      "pt": "Paletes com nachos"
+    },
+    "res_bulk_of_potato_chips": {
+      "de": "Paletten mit Kartoffelchips",
+      "en": "Pallets with potato chips",
+      "nl": "Pallets met chips",
+      "fr": "Palettes de chips de pommes de terre",
+      "hu": "Raklap burgonyachipsszel",
+      "pt": "Paletes com batatas chips"
+    },
+    "res_bulk_padded_clothes": {
+      "de": "Paletten mit gefütterter Kleidung",
+      "en": "Pallets with padded clothes",
+      "nl": "Pallets met gewatteerde kleding",
+      "fr": "Palettes de vêtements matelassés",
+      "hu": "Raklap bélelt ruhákkal",
+      "pt": "Paletes com roupas acolchoadas"
+    },
+    "res_bulk_pear_jam": {
+      "de": "Paletten mit Birnengelee",
+      "en": "Pallets with Pear Jelly",
+      "nl": "Pallets met perengelei",
+      "fr": "Palettes avec gelée de poire",
+      "hu": "Raklapok körte zselével",
+      "pt": "Paletes com geleia de pera"
+    },
+    "res_bulk_pet_bottles": {
+      "de": "Paletten mit PET-Flaschen",
+      "en": "Pallets of PET Bottles",
+      "nl": "Pallets met PET-flessen",
+      "fr": "Palettes de bouteilles en PET",
+      "hu": "Raklapok PET-palackokkal",
+      "pt": "Paletes de garrafas PET"
+    },
+    "res_bulk_pizza_ham": {
+      "de": "Paletten mit Schinkenpizzen",
+      "en": "Pallets with ham pizza",
+      "nl": "Pallets met ham pizza",
+      "fr": "Palettes de pizzas au jambon",
+      "hu": "Raklap sonkás pizzával",
+      "pt": "Paletes com pizza de presunto"
+    },
+    "res_bulk_pizza_paprika": {
+      "de": "Paletten mit Paprikapizzen",
+      "en": "Pallets with Pizza Bell Pepper",
+      "nl": "Pallets met paprika pizza",
+      "fr": "Palettes de pizzas au poivron",
+      "hu": "Raklap paprikás pizzával",
+      "pt": "Paletes com pizza de pimentão"
+    },
+    "res_bulk_pizza_salami": {
+      "de": "Paletten mit Salamipizzen",
+      "en": "Pallets with salami pizza",
+      "nl": "Pallets met salami pizza",
+      "fr": "Palettes de pizzas au salami",
+      "hu": "Raklap szalámis pizzával",
+      "pt": "Paletes de pizzas de chouriço"
+    },
+    "res_bulk_plastic_boxes": {
+      "de": "Paletten mit Kunststoffboxen",
+      "en": "Pallets of plastic Boxes",
+      "nl": "Pallets met plastic dozen",
+      "fr": "Palettes de boîtes en plastique",
+      "hu": "Raklapok műanyag dobozokkal",
+      "pt": "Paletes de caixas plásticas"
+    },
+    "res_bulk_popcorn": {
+      "de": "Popcorn-Paletten",
+      "en": "Pallets with popcorn",
+      "nl": "Pallets met popcorn",
+      "fr": "Palettes de popcorn",
+      "hu": "Raklap pattogatott kukoricával",
+      "pt": "Paletes com pipoca"
+    },
+    "res_bulk_pretzel_sticks": {
+      "de": "Paletten mit Salzstangen",
+      "en": "Pallets with pretzel sticks",
+      "nl": "Pallets met pretzelstengels",
+      "fr": "Palettes de bâtonnets de bretzel",
+      "hu": "Raklap sós pálcikákkal",
+      "pt": "Paletes com palitos de pretzel"
+    },
+    "res_bulk_sandals": {
+      "de": "Paletten mit Sandalen",
+      "en": "Pallets with sandals",
+      "nl": "Pallets met sandalen",
+      "fr": "Palettes de sandales",
+      "hu": "Raklap szandálokkal",
+      "pt": "Paletes com sandálias"
+    },
+    "res_bulk_slippers": {
+      "de": "Paletten mit Turnschuhen",
+      "en": "Pallets with Slip-ins",
+      "nl": "Pallets met insteekhoezen",
+      "fr": "Palettes avec intercalaires",
+      "hu": "Raklap belebújós cipőkkel",
+      "pt": "Paletes com slip-ins"
+    },
+    "res_bulk_smoothies": {
+      "de": "Paletten mit Smoothies",
+      "en": "Pallets with Smoothies",
+      "nl": "Pallets met Smoothies",
+      "fr": "Des palettes avec des smoothies",
+      "hu": "Raklapok Smoothie-kkal",
+      "pt": "Paletes com Smoothies"
+    },
+    "res_bulk_sneakers": {
+      "de": "Paletten mit Sportschuhen",
+      "en": "Pallets with Sneakers",
+      "nl": "Pallets met sneakers",
+      "fr": "Palettes de baskets",
+      "hu": "Raklap sportcipőkkel",
+      "pt": "Paletes com tênis"
+    },
+    "res_bulk_table_cloth": {
+      "de": "Paletten mit Tischdecken",
+      "en": "Pallets of Table Cloth",
+      "nl": "Pallets tafelkleden",
+      "fr": "Palettes de nappes",
+      "hu": "Raklapnyi asztalterítő",
+      "pt": "Paletes de toalhas de mesa"
+    },
+    "res_bulk_takeout_boxes": {
+      "de": "Paletten mit Take-away-Boxen",
+      "en": "Pallets of Takeout boxes",
+      "nl": "Pallets met afhaalbakjes",
+      "fr": "Palettes de boîtes à emporter",
+      "hu": "Raklapok elviteles dobozokkal",
+      "pt": "Paletes de caixas para levar"
+    },
+    "res_bulk_textile_birch_wood_chair": {
+      "de": "Paletten mit gepolsterten Stühlen aus Birkenholz",
+      "en": "Pallets with Upholstered Birch Wood Chairs",
+      "nl": "Pallets met gestoffeerde stoelen van berkenhout",
+      "fr": "Palettes avec des chaises rembourrées en bois de bouleau",
+      "hu": "Raklapok kárpitozott nyírfa székekkel",
+      "pt": "Paletes com cadeiras estofadas de madeira de bétula"
+    },
+    "res_bulk_textile_cherry_wood_chair": {
+      "de": "Paletten mit gepolsterten Stühlen aus Kirschholz",
+      "en": "Pallets with Upholstered Cherry Wood Chairs",
+      "nl": "Pallets met gestoffeerde kersenhouten stoelen",
+      "fr": "Palettes avec des chaises rembourrées en bois de cerisier",
+      "hu": "Raklapok kárpitozott cseresznyefából készült székekkel",
+      "pt": "Paletes com cadeiras estofadas em madeira de cerejeira"
+    },
+    "res_bulk_textile_oak_wood_couch": {
+      "de": "Paletten mit gepolsterten Sofas aus Eichenholz",
+      "en": "Pallets with Upholstered Oak Wood Couches",
+      "nl": "Pallets met gestoffeerde banken van eikenhout",
+      "fr": "Palettes avec canapés rembourrés en chêne",
+      "hu": "Raklapok kárpitozott tölgyfa kanapékkal",
+      "pt": "Paletes com sofás estofados em madeira de carvalho"
+    },
+    "res_bulk_toilet_paper": {
+      "de": "Paletten mit Toilettenpapier",
+      "en": "Pallets of Toilet Paper",
+      "nl": "Pallets met toiletpapier",
+      "fr": "Palettes de papier toilette",
+      "hu": "Raklapok WC-papírral",
+      "pt": "Paletes de papel higiénico"
+    },
+    "res_car_bumper": {
+      "de": "Autostoßstange",
+      "en": "Car Bumper",
+      "nl": "Autobumper",
+      "fr": "Pare-chocs de voiture",
+      "hu": "Autólökhárító",
+      "pt": "Para-choques de automóvel"
+    },
+    "res_car_replacement_parts": {
+      "de": "Autoersatzteile",
+      "en": "Car replacement parts",
+      "nl": "Auto-onderdelen",
+      "fr": "Pièces de rechange automobiles",
+      "hu": "Autóalkatrészek",
+      "pt": "Peças de substituição para automóveis"
+    },
+    "res_car_sidepanel": {
+      "de": "Autoseitenteil",
+      "en": "Car Sidepanel",
+      "nl": "Zijpaneel voor auto",
+      "fr": "Panneau latéral de voiture",
+      "hu": "Autó oldalpanele",
+      "pt": "Painel lateral de automóvel"
+    },
+    "res_car_upholstering": {
+      "de": "Autopolsterung",
+      "en": "Car Uphoslterung",
+      "nl": "Autobekleding",
+      "fr": "Sellerie automobile",
+      "hu": "Autókárpit",
+      "pt": "Estofos automóveis"
+    },
+    "res_cardboard": {
+      "de": "Pappe",
+      "en": "Carboard",
+      "nl": "Karton",
+      "fr": "Carton",
+      "hu": "Karton",
+      "pt": "Papelão"
+    },
+    "res_cardboard_box": {
+      "de": "Pappkarton",
+      "en": "Cardboard Box",
+      "nl": "Kartonnen doos",
+      "fr": "Boîte en carton",
+      "hu": "Kartondoboz",
+      "pt": "Caixa de papelão"
+    },
+    "res_cherries": {
+      "de": "Kirschen",
+      "en": "Cherries",
+      "nl": "Kersen",
+      "fr": "Cerises",
+      "hu": "Cseresznye",
+      "pt": "Cerejas"
+    },
+    "res_cherry_jam": {
+      "de": "Kirschmarmelade",
+      "en": "Cherry Jam",
+      "nl": "Kersenjam",
+      "fr": "Confiture de cerises",
+      "hu": "Cseresznye lekvár",
+      "pt": "Doce de cereja"
+    },
+    "res_cherry_juice": {
+      "de": "Kirschsaft",
+      "en": "Cherry Juice",
+      "nl": "Kersensap",
+      "fr": "Jus de cerise",
+      "hu": "Cseresznye juice",
+      "pt": "Sumo de Cereja"
+    },
+    "res_cherry_pie": {
+      "de": "Kirschtorte",
+      "en": "Cherry Cake",
+      "nl": "Kersentaart",
+      "fr": "Gâteau aux cerises",
+      "hu": "Cseresznyés torta",
+      "pt": "Bolo de cereja"
+    },
+    "res_cherry_table": {
+      "de": "Tisch aus Kirschholz",
+      "en": "Cherry wood Table",
+      "nl": "Kersenhouten Tafel",
+      "fr": "Table en bois de cerisier",
+      "hu": "Cseresznyefa asztal",
+      "pt": "Mesa de madeira de cerejeira"
+    },
+    "res_cherry_veneer": {
+      "de": "Kirschholzfurnierbretter",
+      "en": "Cherry Veneer Planks",
+      "nl": "Kersen fineerplanken",
+      "fr": "Planches de placage de cerisier",
+      "hu": "Cseresznye furnér deszkák",
+      "pt": "Tábuas de folheado de cerejeira"
+    },
+    "res_cherry_veneer_planks": {
+      "de": "Kirschholzfurnierbretter",
+      "en": "Cherry veneer planks",
+      "nl": "Kersen fineerplanken",
+      "fr": "Planches en placage de cerisier",
+      "hu": "Cseresznye furnér deszkák",
+      "pt": "Tábuas folheadas a cerejeira"
+    },
+    "res_cherry_wood_chair": {
+      "de": "Stuhl aus Kirschholz",
+      "en": "Cherry wood chair",
+      "nl": "Stoel van kersenhout",
+      "fr": "Chaise en bois de cerisier",
+      "hu": "Cseresznyefából készült szék",
+      "pt": "Cadeira de madeira de cerejeira"
+    },
+    "res_cherry_wood_logs": {
+      "de": "Kirschholzstämme",
+      "en": "Cherry wood logs",
+      "nl": "Kersenhouten stammen",
+      "fr": "Bûches en bois de cerisier",
+      "hu": "Cseresznyefa rönk",
+      "pt": "Toros de madeira de cerejeira"
+    },
+    "res_cherry_wood_planks": {
+      "de": "Kirschholzbretter",
+      "en": "Cherry wood Planks",
+      "nl": "Kersenhouten planken",
+      "fr": "Planches en bois de cerisier",
+      "hu": "Cseresznyefa deszkák",
+      "pt": "Tábuas de madeira de cerejeira"
+    },
+    "res_chicken_meat": {
+      "de": "Hühnerfleisch",
+      "en": "Chicken meat",
+      "nl": "Kippenvlees",
+      "fr": "Viande de poulet",
+      "hu": "Csirkehús",
+      "pt": "Carne de frango"
+    },
+    "res_chicken_wings": {
+      "de": "Chicken wings",
+      "en": "Chicken wings",
+      "nl": "Kippenvleugels",
+      "fr": "Ailes de poulet",
+      "hu": "Csirkeszárnyak",
+      "pt": "Asas de frango"
+    },
+    "res_christmas_cookies_1": {
+      "de": "Lebkuchen",
+      "en": "Gingerbread Cookies",
+      "nl": "Peperkoekjes",
+      "fr": "Bûchettes",
+      "hu": "Mézeskalács keksz",
+      "pt": "Biscoitos de gengibre"
+    },
+    "res_christmas_cookies_2": {
+      "de": "Mandelkekse",
+      "en": "Christmas Stollen",
+      "nl": "Kletskoppen",
+      "fr": "Bredele",
+      "hu": "Karácsonyi stollen",
+      "pt": "Bolinhos doces"
+    },
+    "res_christmas_cookies_3": {
+      "de": "Stollen",
+      "en": "Shortbread",
+      "nl": "Kerstkoekjes",
+      "fr": "Sablés de Noël",
+      "hu": "Vajas keksz",
+      "pt": "Biscoitos de Natal"
+    },
+    "res_corn": {
+      "de": "Mais",
+      "en": "Corn",
+      "nl": "Maïs",
+      "fr": "Maïs",
+      "hu": "Kukorica",
+      "pt": "Milho"
+    },
+    "res_corn_flour": {
+      "de": "Maismehl",
+      "en": "Corn flour",
+      "nl": "Maïsmeel",
+      "fr": "Farine de maïs",
+      "hu": "Kukoricaliszt",
+      "pt": "Farinha de milho"
+    },
+    "res_corn_nacho": {
+      "de": "Mais-Nachos",
+      "en": "Corn nachos",
+      "nl": "Maïs nacho's",
+      "fr": "Nachos de maïs",
+      "hu": "Kukorica nachos",
+      "pt": "Nachos de milho"
+    },
+    "res_cotton": {
+      "de": "Baumwolle",
+      "en": "Cotton",
+      "nl": "Katoen",
+      "fr": "Coton",
+      "hu": "Pamut",
+      "pt": "Algodão"
+    },
+    "res_cotton_clothes": {
+      "de": "Baumwollkleidung",
+      "en": "Cotton clothes",
+      "nl": "Katoenen kleding",
+      "fr": "Vêtements en coton",
+      "hu": "Pamut ruhák",
+      "pt": "Roupas de algodão"
+    },
+    "res_cotton_hats": {
+      "de": "Baumwollmützen",
+      "en": "Cotton Hats",
+      "nl": "Katoenen hoeden",
+      "fr": "Chapeaux en coton",
+      "hu": "Pamut sapkák",
+      "pt": "Chapéus de algodão"
+    },
+    "res_cotton_yarn": {
+      "de": "Baumwollgarne",
+      "en": "Cotton yarns",
+      "nl": "Katoenen garens",
+      "fr": "Fils de coton",
+      "hu": "Pamut fonalak",
+      "pt": "Fios de algodão"
+    },
+    "res_cracker": {
+      "de": "Crackers",
+      "en": "Crackers",
+      "nl": "Crackers",
+      "fr": "Biscuits salés",
+      "hu": "Kekszek",
+      "pt": "Biscoitos salgados"
+    },
+    "res_cucumber": {
+      "de": "Gurken",
+      "en": "Cucumbers",
+      "nl": "Komkommers",
+      "fr": "Concombres",
+      "hu": "Uborkák",
+      "pt": "Pepinos"
+    },
+    "res_cups": {
+      "de": "Becher",
+      "en": "Cups",
+      "nl": "Bekers",
+      "fr": "Gobelets",
+      "hu": "Poharak",
+      "pt": "Copos"
+    },
+    "res_dish_towel": {
+      "de": "Geschirrtuch",
+      "en": "Dish Towel",
+      "nl": "Vaatdoek",
+      "fr": "Torchon",
+      "hu": "Tányértörölköző",
+      "pt": "Pano de cozinha"
+    },
+    "res_easter_braids": {
+      "de": "Oster Zopf",
+      "en": "Easter Braid",
+      "nl": "Paasvlecht",
+      "fr": "Tresse de Pâques",
+      "hu": "Húsvéti fonat",
+      "pt": "Trança de Páscoa"
+    },
+    "res_easter_cakes": {
+      "de": "Osterkuchen",
+      "en": "Easter Simnel Cake",
+      "nl": "Paas Simnel Cake",
+      "fr": "Gâteau Simnel de Pâques",
+      "hu": "Húsvéti Simnel torta",
+      "pt": "Bolo de Páscoa Simnel"
+    },
+    "res_easter_cross_buns": {
+      "de": "Osterbrötchen",
+      "en": "Hot Cross Buns",
+      "nl": "Broodjes Pasen",
+      "fr": "Petits pains de Pâques",
+      "hu": "Húsvéti kenyértekercsek",
+      "pt": "Pãozinho de Páscoa"
+    },
+    "res_espadrilles": {
+      "de": "Espadrilles",
+      "en": "Espadrilles",
+      "nl": "Espadrilles",
+      "fr": "Espadrilles",
+      "hu": "Espadrilles",
+      "pt": "Espadrilles"
+    },
+    "res_euro_pallet": {
+      "de": "Holzpalette",
+      "en": "Wodden pallet",
+      "nl": "Houten pallet",
+      "fr": "Palette en bois",
+      "hu": "Fa raklap",
+      "pt": "Palete de madeira"
+    },
+    "res_felt_hats": {
+      "de": "Filzhüte",
+      "en": "Felt Hats",
+      "nl": "Vilt hoeden",
+      "fr": "Chapeaux en feutre",
+      "hu": "Filckalapok",
+      "pt": "Chapéus de feltro"
+    },
+    "res_flax": {
+      "de": "Flachs",
+      "en": "Flax",
+      "nl": "Linnen",
+      "fr": "Lin",
+      "hu": "Len",
+      "pt": "Linho"
+    },
+    "res_flax_clothes": {
+      "de": "Flachshemd",
+      "en": "Flax Shirt",
+      "nl": "Vlas overhemd",
+      "fr": "Chemise en lin",
+      "hu": "Len ing",
+      "pt": "Camisa de linho"
+    },
+    "res_flax_fabric": {
+      "de": "Flachsstoffe",
+      "en": "Flax fabrics",
+      "nl": "Linnen stoffen",
+      "fr": "Tissus de lin",
+      "hu": "Len szövetek",
+      "pt": "Tecidos de linho"
+    },
+    "res_flax_yarn": {
+      "de": "Flachsgarne",
+      "en": "Flax yarns",
+      "nl": "Linnen garens",
+      "fr": "Fils de lin",
+      "hu": "Len fonalak",
+      "pt": "Fios de linho"
+    },
+    "res_flour": {
+      "de": "Weizenmehl",
+      "en": "Wheat Flour",
+      "nl": "Tarwemeel",
+      "fr": "Farine de blé",
+      "hu": "Búzaliszt",
+      "pt": "Farinha de trigo"
+    },
+    "res_fries": {
+      "de": "Pommes frites",
+      "en": "Fries",
+      "nl": "Friet",
+      "fr": "Frites",
+      "hu": "Sült krumpli",
+      "pt": "Batatas fritas"
+    },
+    "res_garden_accessories": {
+      "de": "Gartenzubehör",
+      "en": "Garden accessories",
+      "nl": "Tuinaccessoires",
+      "fr": "Accessoires de jardin",
+      "hu": "Kerti kiegészítők",
+      "pt": "Acessórios de jardim"
+    },
+    "res_ham": {
+      "de": "Schinken",
+      "en": "Ham",
+      "nl": "Hammen",
+      "fr": "Jambons",
+      "hu": "Sonka",
+      "pt": "Presuntos"
+    },
+    "res_hemp": {
+      "de": "Industriehanf",
+      "en": "Industrial hemp",
+      "nl": "Industriële hennep",
+      "fr": "Chanvre industriel",
+      "hu": "Ipari kender",
+      "pt": "Cânhamo industrial"
+    },
+    "res_hemp_clothes": {
+      "de": "Arbeitskleidung",
+      "en": "Work Clothes",
+      "nl": "Werkkleding",
+      "fr": "Vêtements de travail",
+      "hu": "Munkaruha",
+      "pt": "Vestuário de trabalho"
+    },
+    "res_hemp_composite_fiber": {
+      "de": "Hanfverbundfaser",
+      "en": "Hemp Composite Fiber",
+      "nl": "Hennepcomposietvezel",
+      "fr": "Fibre composite de chanvre",
+      "hu": "Kenderkompozit-szál",
+      "pt": "Fibra compósita de cânhamo"
+    },
+    "res_hemp_fabric": {
+      "de": "Hanfstoffe",
+      "en": "Hemp fabrics",
+      "nl": "Hennepstoffen",
+      "fr": "Tissus de chanvre",
+      "hu": "Kender szövetek",
+      "pt": "Tecidos de cânhamo"
+    },
+    "res_hemp_filament": {
+      "de": "3D-Hanffilament",
+      "en": "3D-Hemp Filament",
+      "nl": "3D-hennepfilament",
+      "fr": "Filament 3D en chanvre",
+      "hu": "3D kenderfilament",
+      "pt": "Filamento 3D de cânhamo"
+    },
+    "res_hemp_insulation": {
+      "de": "Hanfdämmung",
+      "en": "Hemp Insulation",
+      "nl": "Hennepisolatie",
+      "fr": "Isolation en chanvre",
+      "hu": "Kenderszigetelés",
+      "pt": "Isolamento de cânhamo"
+    },
+    "res_hemp_soap": {
+      "de": "Hanfseife",
+      "en": "Hemp soap",
+      "nl": "Hennepzeep",
+      "fr": "Savon au chanvre",
+      "hu": "Kenderszappan",
+      "pt": "Sabonete de cânhamo"
+    },
+    "res_hemp_yarn": {
+      "de": "Hanfgarne",
+      "en": "Hemp yarns",
+      "nl": "Hennepgarens",
+      "fr": "Fils de chanvre",
+      "hu": "Kender fonalak",
+      "pt": "Fios de cânhamo"
+    },
+    "res_indigo_dye": {
+      "de": "Blauer Farbstoff",
+      "en": "Blue dye",
+      "nl": "Blauwe kleurstof",
+      "fr": "Colorant bleu",
+      "hu": "Kék festék",
+      "pt": "Corante azul"
+    },
+    "res_indigo_fabric": {
+      "de": "Jeans-Stoffe",
+      "en": "Jeans Fabrics",
+      "nl": "Jeans Stoffen",
+      "fr": "Tissus pour jeans",
+      "hu": "Farmer szövetek",
+      "pt": "Tecido de ganga"
+    },
+    "res_jeans_trousers": {
+      "de": "Jeans",
+      "en": "Jeans",
+      "nl": "Jeans",
+      "fr": "Jeans",
+      "hu": "Farmer",
+      "pt": "Calças de ganga"
+    },
+    "res_jute": {
+      "de": "Jute",
+      "en": "Jute",
+      "nl": "Jute",
+      "fr": "Jute",
+      "hu": "Juta",
+      "pt": "Juta"
+    },
+    "res_ketchup": {
+      "de": "Ketchup",
+      "en": "Ketchup",
+      "nl": "Ketchup",
+      "fr": "Ketchup",
+      "hu": "Ketchup",
+      "pt": "Ketchup"
+    },
+    "res_meat": {
+      "de": "Fleisch",
+      "en": "Meat",
+      "nl": "Vlees",
+      "fr": "Viande",
+      "hu": "Hús",
+      "pt": "Carne"
+    },
+    "res_merino_hats": {
+      "de": "Merino Wollmützen",
+      "en": "Merino Wool Hats",
+      "nl": "Merinowollen muts",
+      "fr": "Chapeau en laine mérinos",
+      "hu": "Merinó gyapjú sapka",
+      "pt": "Chapéu de lã merino"
+    },
+    "res_merino_wool": {
+      "de": "Merinowolle",
+      "en": "Merino Wool",
+      "nl": "Merinoswol",
+      "fr": "Laine mérinos",
+      "hu": "Merinó gyapjú",
+      "pt": "Lã Merino"
+    },
+    "res_merino_wool_yarn": {
+      "de": "Merinowollgarn",
+      "en": "Merino Wool Yarn",
+      "nl": "Merinoswol Garen",
+      "fr": "Fil de laine mérinos",
+      "hu": "Merinó gyapjú fonal",
+      "pt": "Fio de lã merino"
+    },
+    "res_metal_supports": {
+      "de": "Metallstützen",
+      "en": "Metal supports",
+      "nl": "Metalen steunen",
+      "fr": "Supports métalliques",
+      "hu": "Fémtámaszok",
+      "pt": "Suportes metálicos"
+    },
+    "res_mixed_fries": {
+      "de": "Pommesmix",
+      "en": "Mixed fries",
+      "nl": "Gemengde friet",
+      "fr": "Frites mixtes",
+      "hu": "Vegyes sült krumpli",
+      "pt": "Batatas fritas mistas"
+    },
+    "res_nacho": {
+      "de": "Nachos",
+      "en": "Nachos",
+      "nl": "Nacho's",
+      "fr": "Nachos",
+      "hu": "Nachos",
+      "pt": "Nachos"
+    },
+    "res_oak_sideboard": {
+      "de": "Anrichte aus Eichenholz",
+      "en": "Oak sideboard",
+      "nl": "Eiken dressoir",
+      "fr": "Buffet en chêne",
+      "hu": "Tölgy komód",
+      "pt": "Aparador em carvalho"
+    },
+    "res_oak_veneer": {
+      "de": "Eichenholzfurnier",
+      "en": "Oak veneer",
+      "nl": "Eiken fineer",
+      "fr": "Placage de chêne",
+      "hu": "Tölgy furnér",
+      "pt": "Folheado a carvalho"
+    },
+    "res_oak_veneer_planks": {
+      "de": "Eichenholzfurnierbretter",
+      "en": "Oak Veneer Planks",
+      "nl": "Eiken fineerplanken",
+      "fr": "Planches de placage en chêne",
+      "hu": "Tölgy furnér deszkák",
+      "pt": "Tábuas de folheado de carvalho"
+    },
+    "res_oak_wood_couch": {
+      "de": "Sofa aus Eichenholz",
+      "en": "Oak Couch",
+      "nl": "Eiken Bank",
+      "fr": "Canapé en chêne",
+      "hu": "Tölgy kanapé",
+      "pt": "Sofá em carvalho"
+    },
+    "res_oak_wood_logs": {
+      "de": "Eichenholzstämme",
+      "en": "Oak wood logs",
+      "nl": "Eiken houtblokken",
+      "fr": "Bûches de bois de chêne",
+      "hu": "Tölgy rönk",
+      "pt": "Toros de madeira de carvalho"
+    },
+    "res_oak_wood_planks": {
+      "de": "Eichenholzbretter",
+      "en": "Oak wood planks",
+      "nl": "Eiken houten planken",
+      "fr": "Planches de bois de chêne",
+      "hu": "Tölgyfa deszkák",
+      "pt": "Tábuas de madeira de carvalho"
+    },
+    "res_paprika": {
+      "de": "Paprikas",
+      "en": "Bell peppers",
+      "nl": "Paprika's",
+      "fr": "Poivrons",
+      "hu": "Kaliforniai paprika",
+      "pt": "Pimentões"
+    },
+    "res_pear_jam": {
+      "de": "Birnengelee",
+      "en": "Pear Jelly",
+      "nl": "Perengelei",
+      "fr": "Gelée de poire",
+      "hu": "Körte zselé",
+      "pt": "Geleia de pera"
+    },
+    "res_pear_pie": {
+      "de": "Birnen-Tarte",
+      "en": "Pear Tarte",
+      "nl": "Peer taart",
+      "fr": "Tarte aux poires",
+      "hu": "Körte Tarte",
+      "pt": "Tarte de pera"
+    },
+    "res_pears": {
+      "de": "Birnen",
+      "en": "Pears",
+      "nl": "Peren",
+      "fr": "Poires",
+      "hu": "Körte",
+      "pt": "Peras"
+    },
+    "res_pet_bottle": {
+      "de": "PET-Flasche",
+      "en": "PET Bottle",
+      "nl": "PET-fles",
+      "fr": "Bouteille en PET",
+      "hu": "PET-palack",
+      "pt": "Garrafa PET"
+    },
+    "res_pillow": {
+      "de": "Kissen",
+      "en": "Pillows",
+      "nl": "Kussens",
+      "fr": "Oreillers",
+      "hu": "Párnák",
+      "pt": "Travesseiros"
+    },
+    "res_pizza": {
+      "de": "Salamipizzen",
+      "en": "Salami pizzas",
+      "nl": "Salami pizza's",
+      "fr": "Pizzas au salami",
+      "hu": "Szalámis pizzák",
+      "pt": "Pizzas de Chouriço"
+    },
+    "res_pizza_ham": {
+      "de": "Schinkenpizzen",
+      "en": "Ham Pizzas",
+      "nl": "Ham pizza's",
+      "fr": "Pizzas au Jambon",
+      "hu": "Sonkás pizzák",
+      "pt": "Pizzas de presunto"
+    },
+    "res_pizza_paprika": {
+      "de": "Paprikapizzen",
+      "en": "Pizza Bell Pepper",
+      "nl": "Paprika pizza's",
+      "fr": "Pizzas au paprika",
+      "hu": "Paprikás pizzák",
+      "pt": "Pizzas de pimentão"
+    },
+    "res_plastic_box": {
+      "de": "Kunststoffboxen",
+      "en": "Plastic Boxes",
+      "nl": "Plastic dozen",
+      "fr": "Boîtes en plastique",
+      "hu": "Műanyag dobozok",
+      "pt": "Caixas plásticas"
+    },
+    "res_plastic_coated_hose": {
+      "de": "Kunststoffschlauch",
+      "en": "Plastic hose",
+      "nl": "Kunststofslang",
+      "fr": "Tuyau en plastique",
+      "hu": "Műanyag tömlő",
+      "pt": "Mangueira de plástico"
+    },
+    "res_plastic_filament": {
+      "de": "3D-Kunststofffilament",
+      "en": "3D-Plastic Filament",
+      "nl": "3D-kunststoffilament",
+      "fr": "Filament 3D en plastique",
+      "hu": "3D műanyag filament",
+      "pt": "Filamento 3D de plástico"
+    },
+    "res_plastic_granules": {
+      "de": "Kunststoffgranulat",
+      "en": "Plastic Granules",
+      "nl": "Kunststofgranulaat",
+      "fr": "Granulés de plastique",
+      "hu": "Műanyag granulátum",
+      "pt": "Granulado de plástico"
+    },
+    "res_popcorn": {
+      "de": "Popcorn",
+      "en": "Popcorn",
+      "nl": "Popcorn",
+      "fr": "Pop-corn",
+      "hu": "Popcorn",
+      "pt": "Pipoca"
+    },
+    "res_potato": {
+      "de": "Kartoffeln",
+      "en": "Potatoes",
+      "nl": "Aardappelen",
+      "fr": "Pommes de terre",
+      "hu": "Burgonya",
+      "pt": "Batatas"
+    },
+    "res_potato_chips": {
+      "de": "Kartoffelchips",
+      "en": "Potato chips",
+      "nl": "Aardappelchips",
+      "fr": "Chips de pommes de terre",
+      "hu": "Burgonyachips",
+      "pt": "Batatas chips"
+    },
+    "res_pressed_wood_planks": {
+      "de": "Pressholzbretter",
+      "en": "Pressed wood planks",
+      "nl": "Geperste houten planken",
+      "fr": "Planches de bois pressé",
+      "hu": "préselt fa deszkák",
+      "pt": "Tábuas de madeira prensada"
+    },
+    "res_pretzel_sticks": {
+      "de": "Salzstangen",
+      "en": "Pretzel sticks",
+      "nl": "Pretzelstokjes",
+      "fr": "Bâtonnets de bretzel",
+      "hu": "Ropirudak",
+      "pt": "Palitos de pretzel"
+    },
+    "res_recovered_fiber": {
+      "de": "Rückgewonnene Faser",
+      "en": "Recovered Fiber",
+      "nl": "Teruggewonnen vezel",
+      "fr": "Fibre récupérée",
+      "hu": "Visszanyert szál",
+      "pt": "Fibra recuperada"
+    },
+    "res_recovered_metal": {
+      "de": "Metallschrott",
+      "en": "Metals Scraps",
+      "nl": "Metaalschroot",
+      "fr": "Ferraille",
+      "hu": "Fémhulladék",
+      "pt": "Sucata metálica"
+    },
+    "res_red_dye": {
+      "de": "Roter Farbstoff",
+      "en": "Red Dye",
+      "nl": "Rode kleurstof",
+      "fr": "Teinture rouge",
+      "hu": "Vörös festék",
+      "pt": "Corante vermelho"
+    },
+    "res_rose": {
+      "de": "Rosen",
+      "en": "Roses",
+      "nl": "Rozen",
+      "fr": "Roses",
+      "hu": "Rózsák",
+      "pt": "Rosas"
+    },
+    "res_rubber_floor_mat": {
+      "de": "Gummibodenmatte",
+      "en": "Rubber Floor Mat",
+      "nl": "Rubberen vloermat",
+      "fr": "Tapis de sol en caoutchouc",
+      "hu": "Gumiszőnyeg",
+      "pt": "Tapete de borracha"
+    },
+    "res_rubber_granules": {
+      "de": "Gummigranulat",
+      "en": "Rubber Granules",
+      "nl": "Rubbergranulaat",
+      "fr": "Granulés de caoutchouc",
+      "hu": "Gumigranulátum",
+      "pt": "Granulado de borracha"
+    },
+    "res_salami": {
+      "de": "Salami",
+      "en": "Salami",
+      "nl": "Salami",
+      "fr": "Saucisson",
+      "hu": "Szalámi",
+      "pt": "Chouriços"
+    },
+    "res_sandals": {
+      "de": "Sandalen",
+      "en": "Sandals",
+      "nl": "Sandalen",
+      "fr": "Sandales",
+      "hu": "Szandálok",
+      "pt": "Sandálias"
+    },
+    "res_slippers": {
+      "de": "Turnschuhe",
+      "en": "Slip-ins",
+      "nl": "Slip-ins",
+      "fr": "Slip-ins",
+      "hu": "Bepattintós cipők",
+      "pt": "Entradas"
+    },
+    "res_smoothies": {
+      "de": "Smoothie",
+      "en": "Smoothie",
+      "nl": "Smoothie",
+      "fr": "Smoothie",
+      "hu": "Smoothie",
+      "pt": "Smoothie"
+    },
+    "res_sneaker": {
+      "de": "Sportschuhe",
+      "en": "Sneakers",
+      "nl": "Sneakers",
+      "fr": "Baskets",
+      "hu": "Sportcipők",
+      "pt": "Tênis"
+    },
+    "res_sound_proofing_panels": {
+      "de": "Schallschutzplatten",
+      "en": "Sound proofing panels",
+      "nl": "Geluidsisolerende panelen",
+      "fr": "Panneaux d'insonorisation",
+      "hu": "Hangszigetelő panelek",
+      "pt": "Painéis de isolamento acústico"
+    },
+    "res_steel_wire": {
+      "de": "Stahldraht",
+      "en": "Steel wire",
+      "nl": "Staaldraad",
+      "fr": "Fil d'acier",
+      "hu": "Acélhuzal",
+      "pt": "Arame de aço"
+    },
+    "res_straw": {
+      "de": "Stroh",
+      "en": "Straw",
+      "nl": "Stro",
+      "fr": "Paille",
+      "hu": "Szalma",
+      "pt": "Palha"
+    },
+    "res_straw_hats": {
+      "de": "Strohhüte",
+      "en": "Straw Hats",
+      "nl": "Strohoeden",
+      "fr": "Chapeaux de paille",
+      "hu": "Szalmakalapok",
+      "pt": "Chapéus de palha"
+    },
+    "res_sunflower": {
+      "de": "Sonnenblumen",
+      "en": "Sunflowers",
+      "nl": "Zonnebloemen",
+      "fr": "Tournesols",
+      "hu": "Napraforgó",
+      "pt": "Girassóis"
+    },
+    "res_sweet_potato": {
+      "de": "Süßkartoffeln",
+      "en": "Sweet potatoes",
+      "nl": "Zoete aardappelen",
+      "fr": "Patates douces",
+      "hu": "Édesburgonya",
+      "pt": "Batata-doce"
+    },
+    "res_table_cloth": {
+      "de": "Tischdecken",
+      "en": "Table Cloths",
+      "nl": "Tafelkleden",
+      "fr": "Nappes de table",
+      "hu": "Asztalterítők",
+      "pt": "Toalhas de mesa"
+    },
+    "res_takeout_box": {
+      "de": "Take-away-Boxen",
+      "en": "Takeout Boxes",
+      "nl": "Afhaalbakjes",
+      "fr": "Boîtes à emporter",
+      "hu": "Elviteles dobozok",
+      "pt": "Caixas para levar"
+    },
+    "res_textile_felt": {
+      "de": "Filz",
+      "en": "Felt",
+      "nl": "Vilt",
+      "fr": "Feutre",
+      "hu": "Filc",
+      "pt": "Feltro"
+    },
+    "res_textile_fill": {
+      "de": "Textilfüllung",
+      "en": "Textile Fill",
+      "nl": "Textielvulling",
+      "fr": "Rembourrage textile",
+      "hu": "Textiltöltet",
+      "pt": "Enchimento têxtil"
+    },
+    "res_textile_scraps": {
+      "de": "Textilreste",
+      "en": "Textile Scraps",
+      "nl": "Textielresten",
+      "fr": "Chutes de textile",
+      "hu": "Textilhulladék",
+      "pt": "Retalhos têxteis"
+    },
+    "res_toilet_paper": {
+      "de": "Toilettenpapier",
+      "en": "Toilet Paper",
+      "nl": "Toiletpapier",
+      "fr": "Papier toilette",
+      "hu": "WC-papír",
+      "pt": "Papel higiênico"
+    },
+    "res_tomato_paste": {
+      "de": "Tomatensoße",
+      "en": "Tomato sauce",
+      "nl": "Tomatensaus",
+      "fr": "Sauce tomate",
+      "hu": "Paradicsomszósz",
+      "pt": "Molho de tomate"
+    },
+    "res_tomatoes": {
+      "de": "Tomaten",
+      "en": "Tomatoes",
+      "nl": "Tomaten",
+      "fr": "Tomates",
+      "hu": "Paradicsom",
+      "pt": "Tomates"
+    },
+    "res_top_hats": {
+      "de": "Zylinder",
+      "en": "Top Hats",
+      "nl": "Hoge hoeden",
+      "fr": "Hauts-de-forme",
+      "hu": "Cilinderek",
+      "pt": "Cartolas"
+    },
+    "res_tulip": {
+      "de": "Tulpen",
+      "en": "Tulips",
+      "nl": "Tulpen",
+      "fr": "Tulipes",
+      "hu": "Tulipánok",
+      "pt": "Tulipas"
+    },
+    "res_velvet": {
+      "de": "Samt",
+      "en": "Velvet",
+      "nl": "Fluweel",
+      "fr": "Velours",
+      "hu": "Bársony",
+      "pt": "Veludo"
+    },
+    "res_waste_paper": {
+      "de": "Altpapier",
+      "en": "Waste Paper",
+      "nl": "Oud papier",
+      "fr": "Vieux papiers",
+      "hu": "Hulladékpapír",
+      "pt": "Papel reciclado"
+    },
+    "res_waste_plastic": {
+      "de": "Kunststoffabfälle",
+      "en": "Waste Plastic",
+      "nl": "Plastic afval",
+      "fr": "Déchets plastiques",
+      "hu": "Hulladék műanyag",
+      "pt": "Plástico reciclado"
+    },
+    "res_wheat": {
+      "de": "Weizen",
+      "en": "Wheat",
+      "nl": "Tarwe",
+      "fr": "Blé",
+      "hu": "Búza",
+      "pt": "Trigo"
+    },
+    "res_white_paper": {
+      "de": "Weißes Papier",
+      "en": "White Paper",
+      "nl": "Wit papier",
+      "fr": "Papier blanc",
+      "hu": "Fehér papír",
+      "pt": "Papel branco"
+    },
+    "res_wood_chips": {
+      "de": "Holzspäne",
+      "en": "Wood chips",
+      "nl": "Houtsnippers",
+      "fr": "Copeaux de bois",
+      "hu": "Faforgács",
+      "pt": "Cavacos de madeira"
+    },
+    "res_wool": {
+      "de": "Wolle",
+      "en": "Wool",
+      "nl": "Wol",
+      "fr": "Laine",
+      "hu": "Gyapjú",
+      "pt": "Lã"
+    },
+    "res_wool_carpet": {
+      "de": "Wollteppiche",
+      "en": "Wool carpets",
+      "nl": "Wollen tapijten",
+      "fr": "Tapis en laine",
+      "hu": "Gyapjú szőnyegek",
+      "pt": "Tapetes de lã"
+    },
+    "res_wool_clothes": {
+      "de": "Merino-Kleidung",
+      "en": "Merino clothes",
+      "nl": "Merino kleding",
+      "fr": "Vêtements en mérinos",
+      "hu": "Merinó ruhák",
+      "pt": "Roupas de merino"
+    },
+    "res_wool_fabric": {
+      "de": "Rote Wolldecke",
+      "en": "Red Wool Blanket",
+      "nl": "Rode Wollen Deken",
+      "fr": "Couverture en laine rouge",
+      "hu": "Piros gyapjú takaró",
+      "pt": "Manta de lã vermelha"
+    },
+    "res_yarn": {
+      "de": "Wollgarne",
+      "en": "Wool Yarn",
+      "nl": "Wol Garen",
+      "fr": "Fil de laine",
+      "hu": "Gyapjú fonal",
+      "pt": "Fios de lã"
+    }
+  },
+  "orders": {}
+}
