@@ -19,7 +19,8 @@
       ],
       "pieces": "pcs",
       "containers": "containers",
-      "payment": "Payment"
+      "payment": "Payment",
+      "orderName": "Order name"
     },
     "de": {
       "message": [
@@ -30,7 +31,8 @@
       ],
       "pieces": "Stück",
       "containers": "Container",
-      "payment": "Bezahlung"
+      "payment": "Bezahlung",
+      "orderName": "Auftragsname"
     },
     "nl": {
       "message": [
@@ -41,7 +43,8 @@
       ],
       "pieces": "stuks",
       "containers": "containers",
-      "payment": "Betaling"
+      "payment": "Betaling",
+      "orderName": "Opdrachtnaam"
     },
     "fr": {
       "message": [
@@ -52,7 +55,8 @@
       ],
       "pieces": "pièces",
       "containers": "conteneurs",
-      "payment": "Paiement"
+      "payment": "Paiement",
+      "orderName": "Nom de la commande"
     },
     "hu": {
       "message": [
@@ -63,7 +67,8 @@
       ],
       "pieces": "db",
       "containers": "konténer",
-      "payment": "Fizetés"
+      "payment": "Fizetés",
+      "orderName": "Megbízás neve"
     },
     "pt": {
       "message": [
@@ -74,7 +79,8 @@
       ],
       "pieces": "unidades",
       "containers": "contentores",
-      "payment": "Pagamento"
+      "payment": "Pagamento",
+      "orderName": "Nome da encomenda"
     }
   },
   "names": {
