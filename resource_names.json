@@ -1,14 +1,83 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-10-04",
-  "languages": [
-    "de",
-    "en",
-    "nl",
-    "fr",
-    "hu",
-    "pt"
-  ],
+  "languageNames": {
+    "de": "Deutsch",
+    "en": "English",
+    "nl": "Nederlands",
+    "fr": "Français",
+    "hu": "Magyar",
+    "pt": "Português"
+  },
+  "texts": {
+    "en": {
+      "message": [
+        "📢 **Alliance Notification** 📢",
+        ":flag_gb: A new alliance order has been initiated and will run until {ende}",
+        "{auftrag_details}",
+        "Started by: {spieler}"
+      ],
+      "pieces": "pcs",
+      "containers": "containers",
+      "payment": "Payment"
+    },
+    "de": {
+      "message": [
+        "📢 **Allianzbenachrichtigung** 📢",
+        ":flag_de: Ein neuer Allianzauftrag wurde gestartet und läuft bis {ende} Uhr",
+        "{auftrag_details}",
+        "Gestartet von: {spieler}"
+      ],
+      "pieces": "Stück",
+      "containers": "Container",
+      "payment": "Bezahlung"
+    },
+    "nl": {
+      "message": [
+        "📢 **Alliantiemelding** 📢",
+        ":flag_nl: Er is een nieuwe alliantieopdracht gestart die loopt tot {ende}",
+        "{auftrag_details}",
+        "Gestart door: {spieler}"
+      ],
+      "pieces": "stuks",
+      "containers": "containers",
+      "payment": "Betaling"
+    },
+    "fr": {
+      "message": [
+        "📢 **Notification d'alliance** 📢",
+        ":flag_fr: Une nouvelle commande d'alliance a été lancée et durera jusqu'au {ende}",
+        "{auftrag_details}",
+        "Lancée par : {spieler}"
+      ],
+      "pieces": "pièces",
+      "containers": "conteneurs",
+      "payment": "Paiement"
+    },
+    "hu": {
+      "message": [
+        "📢 **Szövetségi értesítés** 📢",
+        ":flag_hu: Új szövetségi megbízás indult, amely eddig tart: {ende}",
+        "{auftrag_details}",
+        "Indította: {spieler}"
+      ],
+      "pieces": "db",
+      "containers": "konténer",
+      "payment": "Fizetés"
+    },
+    "pt": {
+      "message": [
+        "📢 **Notificação da aliança** 📢",
+        ":flag_pt: Foi iniciada uma nova encomenda de aliança, que decorre até {ende}",
+        "{auftrag_details}",
+        "Iniciada por: {spieler}"
+      ],
+      "pieces": "unidades",
+      "containers": "contentores",
+      "payment": "Pagamento"
+    }
+  },
+  "orders": {},
   "names": {
     "res_apple_cider_cleaner": {
       "de": "Apfelreiniger",
@@ -1514,6 +1583,5 @@
       "hu": "Gyapjú fonal",
       "pt": "Fios de lã"
     }
-  },
-  "orders": {}
+  }
 }
