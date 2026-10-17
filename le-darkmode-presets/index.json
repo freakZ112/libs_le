@@ -1,0 +1,54 @@
+{
+  "schema": 1,
+  "default": "grau",
+  "presets": [
+    {
+      "id": "weinrot",
+      "file": "weinrot.json",
+      "label": {
+        "de": "Weinrot",
+        "en": "Wine red"
+      }
+    },
+    {
+      "id": "blau",
+      "file": "blau.json",
+      "label": {
+        "de": "Blau",
+        "en": "Blue"
+      }
+    },
+    {
+      "id": "gruen",
+      "file": "gruen.json",
+      "label": {
+        "de": "Grün",
+        "en": "Green"
+      }
+    },
+    {
+      "id": "gelb",
+      "file": "gelb.json",
+      "label": {
+        "de": "Gelb/Orange",
+        "en": "Yellow/Orange"
+      }
+    },
+    {
+      "id": "cyan",
+      "file": "cyan.json",
+      "label": {
+        "de": "Cyan",
+        "en": "Cyan"
+      }
+    },
+    {
+      "id": "halloween",
+      "file": "halloween.json",
+      "label": {
+        "de": "Halloween",
+        "en": "Halloween"
+      }
+    }
+  ]
+}

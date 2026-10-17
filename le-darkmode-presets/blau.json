@@ -1,0 +1,45 @@
+{
+  "schema": 1,
+  "id": "blau",
+  "label": {
+    "de": "Blau",
+    "en": "Blue"
+  },
+  "colors": {
+    "surfaceRaised": "#38363d",
+    "header": "#3b383f",
+    "hudBar": "#38363d",
+    "navTop": "#2e4359",
+    "navMid": "#243649",
+    "navBottom": "#1e2d3a",
+    "navBorder": "#4d6279",
+    "navButtonTop": "#344c66",
+    "navButtonBottom": "#21364a",
+    "navActiveTop": "#3d5a79",
+    "navActiveBottom": "#263d57",
+    "button": "#3c3a40",
+    "buttonActive": "#3c4752",
+    "buttonDisabled": "#35333a",
+    "buttonEnabledBorder": "#6fa080",
+    "addButtonBorder": "#6f9179",
+    "allianceBlueTop": "#11386c",
+    "allianceBlueBottom": "#08254e",
+    "allianceBlueBorder": "#2b5685",
+    "info": "#38373d",
+    "input": "#333137",
+    "border": "#605e67",
+    "borderStrong": "#6d6b75",
+    "text": "#eef0f3",
+    "muted": "#aaaeb7",
+    "navActiveBorder": "#5c7898",
+    "buttonActiveBorder": "#5f7082",
+    "navActiveGlow": "rgba(83,129,187,0.15)",
+    "navGlowHover": "rgba(255, 125, 20, 0.65)",
+    "buttonActiveGlow": "rgba(105,139,185,0.14)"
+  },
+  "map": {
+    "colorFilter": "saturate(90%) sepia(14%) hue-rotate(175deg)",
+    "tint": "rgba(60,90,140,0.18)",
+    "roadFilter": "sepia(100%) saturate(180%) hue-rotate(175deg) brightness(94%) contrast(106%)"
+  }
+}

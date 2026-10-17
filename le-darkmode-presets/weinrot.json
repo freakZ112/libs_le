@@ -1,0 +1,38 @@
+{
+  "schema": 1,
+  "id": "weinrot",
+  "label": {
+    "de": "Weinrot",
+    "en": "Wine red"
+  },
+  "colors": {
+    "surfaceRaised": "#38363d",
+    "header": "#3b383f",
+    "hudBar": "#38363d",
+    "navTop": "#56313b",
+    "navMid": "#47262f",
+    "navBottom": "#382028",
+    "navBorder": "#76505a",
+    "navButtonTop": "#633743",
+    "navButtonBottom": "#47242e",
+    "navActiveTop": "#75414f",
+    "navActiveBottom": "#542934",
+    "button": "#3c3a40",
+    "buttonActive": "#513d43",
+    "buttonDisabled": "#35333a",
+    "buttonEnabledBorder": "#6fa080",
+    "addButtonBorder": "#6f9179",
+    "allianceBlueTop": "#173f66",
+    "allianceBlueBottom": "#0d2b49",
+    "allianceBlueBorder": "#315d7f",
+    "info": "#38373d",
+    "input": "#333137",
+    "border": "#605e67",
+    "borderStrong": "#6d6b75",
+    "text": "#eef0f3",
+    "muted": "#aaaeb7"
+  },
+  "map": {
+    "colorFilter": "saturate(90%) sepia(14%) hue-rotate(-12deg)"
+  }
+}
