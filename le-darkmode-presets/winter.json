@@ -116,5 +116,15 @@
     "opacity": 0.85,
     "color": "#ffffff",
     "zIndex": 40
+  },
+  "flight": {
+    "image": "https://raw.githubusercontent.com/freakZ112/libs_le/refs/heads/main/le-darkmode-presets/animations/sleigh.svg",
+    "widthFactor": 0.1,
+    "minWidth": 240,
+    "maxWidth": 620,
+    "speed": 240,
+    "swing": 0.06,
+    "waves": 1.5,
+    "intervalMs": 120000
   }
 }
