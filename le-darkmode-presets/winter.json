@@ -125,6 +125,6 @@
     "speed": 240,
     "swing": 0.06,
     "waves": 1.5,
-    "intervalMs": 60000
+    "intervalMs": 120000
   }
 }
