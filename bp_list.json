@@ -19,7 +19,6 @@
   { "chain": "Holz", "bbid": 155, "key": "orl_furniture_factory", "name": "Möbelfabrik" },
   { "chain": "Holz", "bbid": 156, "key": "orl_furniture_shop", "name": "Möbelgeschäft" },
   { "chain": "Holz", "bbid": 134, "key": "orl_carpenter", "name": "Schreinerei" },
-  { "chain": "Holz", "bbid": 184, "key": "orl_sawmill", "name": "Sägewerk" },
 
   { "chain": "Recycling", "bbid": 15273, "key": "orl_car_repair_shop", "name": "Autowerkstatt" },
   { "chain": "Recycling", "bbid": 180, "key": "orl_print_shop", "name": "Druckerei" },
