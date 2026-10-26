@@ -14,18 +14,18 @@
   { "chain": "Textil", "bbid": 11759, "key": "orl_shoe_shop", "name": "Schuhgeschäft" },
   { "chain": "Textil", "bbid": 192, "key": "orl_textile_factory", "name": "Textilfabrik" },
 
-  { "chain": "Holz", "bbid": null, "key": null, "name": "Holzwerkstatt" },
+  { "chain": "Holz", "bbid": 184, "key": "orl_sawmill", "name": "Holzwerkstatt" },
   { "chain": "Holz", "bbid": 164, "key": "orl_hotel", "name": "Hotel" },
   { "chain": "Holz", "bbid": 155, "key": "orl_furniture_factory", "name": "Möbelfabrik" },
   { "chain": "Holz", "bbid": 156, "key": "orl_furniture_shop", "name": "Möbelgeschäft" },
   { "chain": "Holz", "bbid": 134, "key": "orl_carpenter", "name": "Schreinerei" },
   { "chain": "Holz", "bbid": 184, "key": "orl_sawmill", "name": "Sägewerk" },
 
-  { "chain": "Recycling", "bbid": null, "key": null, "name": "Autowerkstatt" },
-  { "chain": "Recycling", "bbid": null, "key": null, "name": "Druckerei" },
-  { "chain": "Recycling", "bbid": null, "key": null, "name": "Kunststoffwerk" },
-  { "chain": "Recycling", "bbid": null, "key": null, "name": "Recyclingdepot" },
+  { "chain": "Recycling", "bbid": 15273, "key": "orl_car_repair_shop", "name": "Autowerkstatt" },
+  { "chain": "Recycling", "bbid": 180, "key": "orl_print_shop", "name": "Druckerei" },
+  { "chain": "Recycling", "bbid": 15275, "key": "orl_plastic_factory", "name": "Kunststoffwerk" },
+  { "chain": "Recycling", "bbid": 15274, "key": "orl_recycling_center", "name": "Recyclingdepot" },
 
-  { "chain": "Event", "bbid": null, "key": null, "name": "Schule" },
+  { "chain": "Event", "bbid": 16699, "key": "orl_school", "name": "Schule" },
   { "chain": "Event", "bbid": 11758, "key": "orl_stadium", "name": "Stadion" }
 ]
