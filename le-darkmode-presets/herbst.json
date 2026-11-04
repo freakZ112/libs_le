@@ -100,7 +100,7 @@
     "regular/ranking_player":,
     "regular/default_player-icon":,
     "regular/navbar_main_settings":,
-    "regular/plus-icon":,
+    "regular/plus-icon":
   },
   "navDecor": {
     "image": "__SVG_NAV_DECOR_DATA_URL__",
