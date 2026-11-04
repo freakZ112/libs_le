@@ -51,19 +51,19 @@
       }
     },
     {
-      "id": "halloween",
-      "file": "halloween.json",
-      "label": {
-        "de": "Halloween",
-        "en": "Halloween"
-      }
-    },
-    {
       "id": "winter",
       "file": "winter.json",
       "label": {
         "de": "Winter",
         "en": "Winter"
+      }
+    },
+    {
+      "id": "halloween",
+      "file": "halloween.json",
+      "label": {
+        "de": "Halloween",
+        "en": "Halloween"
       }
     }
   ]
