@@ -43,6 +43,14 @@
       }
     },
     {
+      "id": "herbst",
+      "file": "herbst.json",
+      "label": {
+        "de": "Herbst",
+        "en": "Autumn"
+      }
+    },
+    {
       "id": "halloween",
       "file": "halloween.json",
       "label": {
