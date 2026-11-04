@@ -1,0 +1,141 @@
+{
+  "schema": 1,
+  "id": "herbst",
+  "label": {
+    "de": "Herbst",
+    "en": "Autumn"
+  },
+  "colors": {
+    "surface": "#322820",
+    "surfaceRaised": "#403226",
+    "surfaceHover": "#513d2b",
+    "header": "#543826",
+    "hudBar": "#34261e",
+    "hudBarBorder": "#c6884c",
+    "navTop": "#a55b2c",
+    "navMid": "#884224",
+    "navBottom": "#652e20",
+    "navBorder": "#e5b66a",
+    "navButtonTop": "#bd7135",
+    "navButtonBottom": "#813e22",
+    "navActiveTop": "#7a8a43",
+    "navActiveBottom": "#58672d",
+    "button": "#62442d",
+    "buttonActive": "#976435",
+    "buttonDisabled": "#453b30",
+    "buttonEnabled": "#70823d",
+    "buttonEnabledBorder": "#c4d48a",
+    "buttonEnabledHover": "#879d4d",
+    "addButton": "#ab632b",
+    "addButtonHover": "#ca7933",
+    "addButtonBorder": "#f1c779",
+    "allianceBlueTop": "#6e754c",
+    "allianceBlueBottom": "#48533c",
+    "allianceBlueBorder": "#a8ae75",
+    "alert": "#794334",
+    "buildingAlert": "#94452f",
+    "buildingAlertBorder": "#e48962",
+    "info": "#57412e",
+    "input": "#413225",
+    "border": "#956c47",
+    "borderStrong": "#b88a56",
+    "text": "#fff3dc",
+    "muted": "#d5b99b",
+    "backdrop": "#251c17",
+    "textStrong": "#fff8e9",
+    "textSub": "#efd6b0",
+    "lineLight": "#bd8f5e",
+    "lineDark": "#39291f",
+    "navActiveBorder": "#e6d989",
+    "navActiveGlow": "rgba(215,205,112,0.23)",
+    "navGlowHover": "rgba(255,188,91,0.52)",
+    "buttonActiveBorder": "#e4b36b",
+    "buttonActiveGlow": "rgba(239,162,70,0.24)",
+    "buttonDisabledBorder": "#625140",
+    "buttonDisabledText": "#a28b72",
+    "buttonEnabledHoverBorder": "#d3dd93",
+    "addButtonHoverBorder": "#ffe0a0",
+    "selectedTop": "#b56a31",
+    "selectedBottom": "#864120"
+  },
+  "map": {
+    "colorAlpha": 0.3,
+    "colorFilter": "saturate(110%) sepia(17%) hue-rotate(-7deg) brightness(103%)",
+    "tint": "rgba(236,155,67,0.13)",
+    "roadWarmth": 0.44,
+    "roadFilter": "sepia(37%) saturate(116%) hue-rotate(-10deg) brightness(106%) contrast(103%)",
+    "buildingBrightness": 0.98
+  },
+  "hud": {
+    "assets": {
+      "left": {
+        "w": 260,
+        "h": 380,
+        "url": "__SVG_HUD_LEFT_DATA_URL__"
+      },
+      "right": {
+        "w": 260,
+        "h": 380,
+        "url": "__SVG_HUD_RIGHT_DATA_URL__"
+      },
+      "ground": {
+        "w": 1080,
+        "h": 110,
+        "url": "__SVG_GROUND_DATA_URL__"
+      }
+    },
+    "scale": 1,
+    "bottom": -30,
+    "hideBar": true
+  },
+  "icons": {
+    "regular/navbar_main_inventory": "__SVG_ICON_INVENTORY_DATA_URL__",
+    "regular/navbar_main_shop": "__SVG_ICON_SHOP_DATA_URL__",
+    "regular/navbar_main_trade": "__SVG_ICON_TRADE_DATA_URL__",
+    "regular/navbar_main_quests": "__SVG_ICON_QUESTS_DATA_URL__",
+    "regular/navbar_main_business": "__SVG_ICON_BUSINESS_DATA_URL__",
+    "regular/navbar_main_alliance": "__SVG_ICON_ALLIANCE_DATA_URL__",
+    "regular/messages_direct": "__SVG_ICON_MESSAGES_DATA_URL__",
+    "regular/ranking_player": "__SVG_ICON_RANKING_DATA_URL__",
+    "regular/default_player-icon": "__SVG_ICON_PLAYER_DATA_URL__",
+    "regular/navbar_main_settings": "__SVG_ICON_SETTINGS_DATA_URL__",
+    "regular/plus-icon": "__SVG_ICON_PLUS_DATA_URL__"
+  },
+  "navDecor": {
+    "image": "__SVG_NAV_DECOR_DATA_URL__",
+    "size": "auto 100%",
+    "positionLeft": "-50px 0",
+    "positionRight": "-50px 0"
+  },
+  "hudHeader": "__SVG_HUD_HEADER_DATA_URL__",
+  "particles": {
+    "type": "leaves",
+    "render": "sprite",
+    "image": "__SVG_LEAF_SPRITE_DATA_URL__",
+    "frames": 4,
+    "count": 50,
+    "sizeMin": 10,
+    "sizeMax": 24,
+    "speedMin": 18,
+    "speedMax": 52,
+    "wind": 12,
+    "swayAmplitudeMin": 25,
+    "swayAmplitudeMax": 70,
+    "swayFrequencyMin": 0.08,
+    "swayFrequencyMax": 0.22,
+    "rotationSpeedMin": -90,
+    "rotationSpeedMax": 90,
+    "opacity": 0.83,
+    "zIndex": 40
+  },
+  "flight": {
+    "image": "__SVG_FLIGHT_DATA_URL__",
+    "widthFactor": 0.13,
+    "minWidth": 240,
+    "maxWidth": 620,
+    "speed": 180,
+    "swing": 0.18,
+    "waves": 2.1,
+    "intervalMs": 60000
+  }
+}
