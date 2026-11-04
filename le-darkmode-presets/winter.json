@@ -126,5 +126,24 @@
     "swing": 0.06,
     "waves": 1.5,
     "intervalMs": 60000
+  },
+  "particles": {
+  "type": "snow",
+  "render": "circle",
+  "count": 90,
+  "sizeMin": 1.2,
+  "sizeMax": 3.6,
+  "speedMin": 22,
+  "speedMax": 60,
+  "wind": 0,
+  "swayAmplitudeMin": 7.2,
+  "swayAmplitudeMax": 18,
+  "swayFrequencyMin": 0.0795774715,
+  "swayFrequencyMax": 0.2228169203,
+  "rotationSpeedMin": 0,
+  "rotationSpeedMax": 0,
+  "opacity": 0.85,
+  "color": "#ffffff",
+  "zIndex": 40
   }
 }
