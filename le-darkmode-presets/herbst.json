@@ -64,7 +64,7 @@
     "tint": "rgba(236,155,67,0.13)",
     "roadWarmth": 0.44,
     "roadFilter": "sepia(37%) saturate(116%) hue-rotate(-10deg) brightness(106%) contrast(103%)",
-    "buildingBrightness": 0.98
+    "buildingBrightness": 0.8
   },
   "hud": {
     "assets": {
