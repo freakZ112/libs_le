@@ -65,7 +65,15 @@
     "roadWarmth": 0.44,
     "roadFilter": "sepia(37%) saturate(116%) hue-rotate(-10deg) brightness(106%) contrast(103%)",
     "buildingBrightness": 0.8
+    "layers": {
+    "Routes":     { "line-color": "#ffd479", "line-opacity": 0.9 },
+    "RoutesGlow": { "line-color": "#ffd479", "line-blur": 6 }
+    } }
   },
+  "map": { "layers": {
+  "Routes":     { "line-color": "#ffd479", "line-opacity": 0.9 },
+  "RoutesGlow": { "line-color": "#ffd479", "line-blur": 6 }
+} },
   "hud": {
     "assets": {
       "left": {
