@@ -777,6 +777,22 @@
                 };
             }
         }
+// Navbar-Icon-Größen
+if (isObject(raw.navbarIconSizeAdjustments)) {
+    const adjustments = {};
+
+    for (const [key, value] of Object.entries(raw.navbarIconSizeAdjustments)) {
+        const size = cleanNumber(value, -50, 100);
+
+        if (/^[\w\/-]{1,60}$/.test(key) && size !== null) {
+            adjustments[key] = size;
+        }
+    }
+
+    if (Object.keys(adjustments).length) {
+        out.navbarIconSizeAdjustments = adjustments;
+    }
+}
 
         if (isObject(raw.corners)) {
             const image = cleanImage(raw.corners.image);
@@ -1180,6 +1196,7 @@
             },
             hud: preset.hud || null,
             icons: preset.icons || null,
+            navbarIconSizeAdjustments: preset.navbarIconSizeAdjustments || {},
             navDecor: preset.navDecor || null,
             corners: preset.corners || null,
             snow: preset.snow || null,
@@ -2384,16 +2401,44 @@
             }
 
             function replacePresetIcons(root) {
-                const icons = THEME.icons;
-                if (!icons) return;
-                for (const img of collect(root, 'img[data-key]')) {
-                    const url = icons[img.dataset.key];
-                    if (!url || img.getAttribute('src') === url) continue;
-                    img.removeAttribute('srcset');
-                    img.setAttribute('src', url);
-                    img.style.objectFit = 'contain';
+    const icons = THEME.icons;
+    if (!icons) return;
+
+    const sizeAdjustments = THEME.navbarIconSizeAdjustments || {};
+
+    for (const img of collect(root, 'img[data-key]')) {
+        const key = img.dataset.key;
+        const url = icons[key];
+
+        if (url && img.getAttribute('src') !== url) {
+            img.removeAttribute('srcset');
+            img.setAttribute('src', url);
+            img.style.objectFit = 'contain';
+        }
+
+        // Individuelle Größenanpassung für Navbar-Icons
+        const adjustment = sizeAdjustments[key];
+
+        if (adjustment !== undefined) {
+            if (!img.dataset.lemOriginalWidth) {
+                const rect = img.getBoundingClientRect();
+
+                if (rect.width > 0 && rect.height > 0) {
+                    img.dataset.lemOriginalWidth = rect.width;
+                    img.dataset.lemOriginalHeight = rect.height;
                 }
             }
+
+            const originalWidth = Number(img.dataset.lemOriginalWidth);
+            const originalHeight = Number(img.dataset.lemOriginalHeight);
+
+            if (originalWidth > 0 && originalHeight > 0) {
+                img.style.width = `${originalWidth + adjustment}px`;
+                img.style.height = `${originalHeight + adjustment}px`;
+            }
+        }
+    }
+}
 
             function processUI(root) {
                 if (!(root instanceof Element)) return;
