@@ -5,10 +5,6 @@
     "de": "Herbst",
     "en": "Autumn"
   },
-    "navbarIconSizeAdjustments": {
-    "regular/navbar_main_inventory": 50
-    "regular/navbar_main_shop": 50
-  },
   "colors": {
     "surface": "#322820",
     "surfaceRaised": "#403226",
