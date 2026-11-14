@@ -70,10 +70,6 @@
     "RoutesGlow": { "line-color": "#ffd479", "line-blur": 6 }
     } }
   },
-  "map": { "layers": {
-  "Routes":     { "line-color": "#ffd479", "line-opacity": 0.9 },
-  "RoutesGlow": { "line-color": "#ffd479", "line-blur": 6 }
-} },
   "hud": {
     "assets": {
       "left": {
