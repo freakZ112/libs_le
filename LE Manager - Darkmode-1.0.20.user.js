@@ -763,7 +763,22 @@
             }
             if (Object.keys(icons).length) out.icons = icons;
         }
+        // Navbar-Icon-Größen
+        if (isObject(raw.navbarIconSizeAdjustments)) {
+            const adjustments = {};
 
+            for (const [key, value] of Object.entries(raw.navbarIconSizeAdjustments)) {
+                const size = cleanNumber(value, -50, 100);
+
+                if (/^[\w\/-]{1,60}$/.test(key) && size !== null) {
+                    adjustments[key] = size;
+                }
+            }
+
+            if (Object.keys(adjustments).length) {
+                out.navbarIconSizeAdjustments = adjustments;
+            }
+        }
         if (isObject(raw.navDecor)) {
             const image = cleanImage(raw.navDecor.image);
             const token = (value, fallback) =>
@@ -777,22 +792,6 @@
                 };
             }
         }
-// Navbar-Icon-Größen
-if (isObject(raw.navbarIconSizeAdjustments)) {
-    const adjustments = {};
-
-    for (const [key, value] of Object.entries(raw.navbarIconSizeAdjustments)) {
-        const size = cleanNumber(value, -50, 100);
-
-        if (/^[\w\/-]{1,60}$/.test(key) && size !== null) {
-            adjustments[key] = size;
-        }
-    }
-
-    if (Object.keys(adjustments).length) {
-        out.navbarIconSizeAdjustments = adjustments;
-    }
-}
 
         if (isObject(raw.corners)) {
             const image = cleanImage(raw.corners.image);
@@ -2401,9 +2400,7 @@ if (isObject(raw.navbarIconSizeAdjustments)) {
             }
 
             function replacePresetIcons(root) {
-    const icons = THEME.icons;
-    if (!icons) return;
-
+    const icons = THEME.icons || {};
     const sizeAdjustments = THEME.navbarIconSizeAdjustments || {};
 
     for (const img of collect(root, 'img[data-key]')) {
