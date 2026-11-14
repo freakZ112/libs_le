@@ -6,7 +6,8 @@
     "en": "Autumn"
   },
     "navbarIconSizeAdjustments": {
-    "regular/navbar_main_inventory": 50
+    "regular/navbar_main_inventory": 20
+    "regular/navbar_main_shop": 20
   },
   "colors": {
     "surface": "#322820",
