@@ -57,6 +57,7 @@
     "addButtonHoverBorder": "#ffe0a0",
     "selectedTop": "#b56a31",
     "selectedBottom": "#864120"
+    "navBadge": "#38bdf8"
   },
   "map": {
     "colorAlpha": 0.3,
