@@ -56,7 +56,7 @@
     "buttonEnabledHoverBorder": "#d3dd93",
     "addButtonHoverBorder": "#ffe0a0",
     "selectedTop": "#b56a31",
-    "selectedBottom": "#864120"
+    "selectedBottom": "#864120",
     "navBadge": "#38bdf8"
   },
   "map": {
